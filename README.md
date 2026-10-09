@@ -19,7 +19,7 @@ Este proyecto implementa una simulación Monte Carlo (método de aceptación-rec
 - NumPy  
 - Matplotlib  
 - Jupyter (para ejecutar los notebooks)  
-- pytest (opcional, para las pruebas)
+- pytest (opcional -> para las pruebas)
 
 ## Instalación
 
