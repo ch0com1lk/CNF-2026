@@ -9,7 +9,7 @@ Organizado por la Sociedad Mexicana de Física.
 
 **Autores:** M. Salinas Ibáñez (CINVESTAV), V. López Agustín y H. Novales Sánchez (FCFM-BUAP).
 
-## Simulación Monte Carlo de la Forward-Backward Asymmetry en $e^+e^-\to\mu^+\mu^-$
+## Simulación Monte Carlo de la Asimetría Forward-Backward en $e^+e^-\to\mu^+\mu^-$
 
 Este proyecto implementa una simulación Monte Carlo (método de aceptación-rechazo) que genera la distribución angular de los muones producidos en $e^+e^-\to\mu^+\mu^-$ a partir de la interferencia entre el fotón virtual y el bosón $Z$, y permite estudiar cómo aparece la asimetría Forward-Backward ($A_{FB}$) al variar la energía de centro de masa $\sqrt{s}$.
 
